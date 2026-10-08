@@ -2,6 +2,7 @@ TP2 Mélissa Boudjelida , Lina Ferrat , Lilia Azizi
 
 
 Problématique:
+
 Où habiter pour avoir le plus de vélos Vélib’ disponibles à proximité, en fonction de ses préférences de type de vélo ?
 Pour répondre à cette problématique, nous avons réalisé deux visualisations complémentaires à partir des données open data de Vélib’.
 La première permet d’avoir une vision géographique de la disponibilité des vélos, tandis que la seconde permet d’analyser plus précisément le nombre et le type de vélos disponibles dans les stations identifiées.
@@ -9,6 +10,7 @@ La première permet d’avoir une vision géographique de la disponibilité des 
 ![photo](carte.png)
 
 Premier graphique : la carte des cinq stations les plus disponibles
+
 La première visualisation est une carte représentant les cinq stations ayant le plus de vélos disponibles.
 Cette représentation permet tout d’abord d’avoir une vision géographique des données. Chaque rond correspond à une station et plus le rond est grand, plus le nombre de vélos disponibles dans cette station est important.
 On peut ainsi rapidement identifier les zones de Paris où l’offre Vélib’ est la plus importante. On retrouve notamment les stations M.-A. Lagroua Weill-Hallé – F. Dolto, Pau Casals – Neuve Tolbiac, Gare de Lyon – Roland Barthes, Jean de la Fontaine – Boula invilliers et Jean Macé – Faidherbe.
@@ -19,6 +21,7 @@ Cependant, la taille des ronds permet surtout une comparaison visuelle. Pour con
 ![Photo](graphique_barre.png)
 
 Deuxième graphique : la répartition entre vélos électriques et mécaniques
+
 Le deuxième graphique est un histogramme à barres groupées. Il reprend exactement les cinq stations identifiées précédemment et détaille leur disponibilité selon le type de vélo.
 La légende distingue les vélos électriques des vélos mécaniques.
 Cette visualisation permet donc d’obtenir une information beaucoup plus précise que la carte.
@@ -32,6 +35,7 @@ Par exemple, une personne qui recherche simplement une station avec beaucoup de 
 
 
 Lien entre les deux graphiques
+
 Les deux visualisations apportent donc deux informations différentes mais complémentaires.
 La carte répond à la question « où ? » : elle permet de localiser les cinq stations les plus importantes et de comparer visuellement leur disponibilité grâce à la taille des ronds.
 Le graphique en barres répond davantage aux questions « combien ? » et « quel type ? » : il donne les valeurs précises et permet de distinguer les vélos électriques des vélos mécaniques.
@@ -42,6 +46,7 @@ On peut également remarquer que certaines stations présentent une très forte 
 
 
 Conclusion
+
 Grâce à ces deux visualisations, nous pouvons donc apporter une réponse plus précise à notre problématique.
 L’analyse montre que le choix d’un lieu d’habitation ne dépend pas uniquement de la quantité totale de vélos disponibles, mais également de leur répartition par type.
 La carte permet d’abord de repérer les zones où l’offre Vélib’ est la plus importante. Le graphique en barres permet ensuite d’affiner cette première analyse en fonction des préférences de l’utilisateur.
