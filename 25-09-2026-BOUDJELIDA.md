@@ -1,4 +1,6 @@
 TP2 Mélissa Boudjelida , Lina Ferrat , Lilia Azizi
+
+
 Problématique:
 Où habiter pour avoir le plus de vélos Vélib’ disponibles à proximité, en fonction de ses préférences de type de vélo ?
 Pour répondre à cette problématique, nous avons réalisé deux visualisations complémentaires à partir des données open data de Vélib’.
