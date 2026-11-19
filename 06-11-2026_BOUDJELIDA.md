@@ -42,7 +42,7 @@ Correction : simplifier. Garder seulement ce qui sert le message et enlever le r
 
 
 Partie 2 : 
-![Dashboard des accidents](accidents_hdf_2025.png)
+![Dashboard des accidents](accident_hdf_2025.png)
 
 ce dashboard, réalisé avec Python (pandas et matplotlib), présente les accidents corporels de la circulation en 2025 dans les Hauts-de-France, à partir de la base officielle BAAC 2025, et montre où, quand et dans quelles conditions ils ont lieu.
 Analyse:
